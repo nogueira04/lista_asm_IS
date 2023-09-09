@@ -1,2 +1,2 @@
 # lista_asm_IS
-Resolução da 1 lista de assembly da cadeira Infraestrutura de Software
+Resolução das questões da primeira lista da cadeira Infraestrutura de Software, resolvidas com assembly x86.
